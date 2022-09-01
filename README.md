@@ -8,4 +8,4 @@ The sample cloudformation templates in `templates` include intential errors that
 
 ## Action Workflows
 
-One workflow, `cfn-nag` scans all of the cloudformation templates and uploads them to Github Code Scanning
+One workflow, `cfn-nag` scans all of the cloudformation templates and uploads them to Github Code Scanning 
