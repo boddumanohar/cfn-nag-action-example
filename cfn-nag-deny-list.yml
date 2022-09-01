@@ -1,0 +1,3 @@
+RulesToSuppress:
+  - id: W77
+    reason: We are satisified with default KMS encryption on secrets.
