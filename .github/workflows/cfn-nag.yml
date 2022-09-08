@@ -23,5 +23,5 @@ jobs:
         uses: stelligent/cfn_nag@v0.8.6
         with:
           input_path: ./
-          extra_args: --deny-list-path cfn-nag-deny-list.yml
+          extra_args: --deny-list-path cfn-nag-deny-list.yml --template-pattern *.yml
  
